@@ -10,5 +10,8 @@ Screenshots:
 
 Tutorials followed: https://lodev.org/cgtutor/raycasting.html 
 
+
 References used: https://en.sfml-dev.org/forums/index.php?topic=13871.0
+
+
 Resources: GCC 13.1.0, SFML Multimedia Library (https://en.sfml-dev.org)
